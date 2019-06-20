@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.shellArgs.osx": []
+    "terminal.integrated.shellArgs.osx": [],
+    "python.pythonPath": "/anaconda3/envs/deeplearning/bin/python"
 }
